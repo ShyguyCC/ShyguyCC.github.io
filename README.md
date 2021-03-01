@@ -1,10 +1,10 @@
 # CiaranCullenPortfolio
-Using the help from https://html5up.net/solid-state design template i have created a website to show off my previous work in tech and talk about myself.
 
-  
-Here is a profolo website.
+In this repositorie i am creating a website that will work as my portfolio, i created 5 pages with the help of html5up to show my strenghts as a programmer working with technology.
 
-Readme in progress.
+Links to photos and HTML5:
+
+Using the help from https://html5up.net/solid-state design template 
 
 Template for website: https://html5up.net/solid-state.
 
